@@ -1,0 +1,1 @@
+Implementation of fast algorithm for solving competition here https://trello.com/jobs/javascript-developer.
